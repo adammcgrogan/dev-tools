@@ -1,9 +1,8 @@
-# DevTools CLI 🛠️
+# 🛠 dev-tools️
 
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
 
 A modular command-line interface (CLI) built to automate mundane developer tasks.\
-This project serves as a "Swiss Army Knife" for my daily workflows while demonstrating core Go concepts.
 
 ## 📦 Installation
 
