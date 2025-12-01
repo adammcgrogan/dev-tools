@@ -1,0 +1,14 @@
+# Binaries
+main
+dev-tools
+dt
+
+# IDE user settings (Don't commit these)
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
