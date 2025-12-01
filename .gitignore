@@ -1,22 +1,12 @@
-# --- Go Binaries ---
-# Ignore the actual executable files
+# Binaries
 main
 dev-tools
 dt
 *.exe
 
-# --- IDE Settings (JetBrains/GoLand) ---
-# Ignore personal user settings
-.idea/workspace.xml
-.idea/usage.statistics.xml
-.idea/shelf/
-*.iws
+# Ignore the entire IDE folder
+.idea/
 
-# Keep shared project settings (These are good!)
-# .idea/vcs.xml
-# .idea/modules.xml
-# .idea/misc.xml
-
-# --- OS Junk ---
+# OS Junk
 .DS_Store
 Thumbs.db
