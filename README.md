@@ -20,4 +20,6 @@ A modular command-line interface (CLI) built to automate mundane developer tasks
 
 ## 🚀 Usage
 
-`./dt --help`
+```
+./dt --help
+```
